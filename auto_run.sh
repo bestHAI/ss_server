@@ -30,6 +30,12 @@ then
     # 初始化 swarm
     docker swarm init
 
+    # 更改登陆密码
+    if [[ $# -eq 1 ]]
+    then
+        sed -i "s/yourpasswd/$1/g" ${work_path}/deploy.yml > "/dev/null"
+    fi
+
 fi
 
 # 开始部署

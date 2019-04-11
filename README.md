@@ -6,7 +6,7 @@
 
 * `cd ss_server`
 
-* `chmod +x auto_run.sh && ./auto_run.sh`
+* `chmod +x auto_run.sh && ./auto_run.sh 【登陆密码】`
 
 ## 二、参数配置
 
