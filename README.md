@@ -40,7 +40,15 @@
     * `./tools/log.sh`
  
 
-##  四、官方导航
+##  四、客户端下载
+
+* [Windows 客户端](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.5/Shadowsocks-4.1.5.zip)
+
+* [Android 客户端](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.7.4/shadowsocks--universal-4.7.4.apk)
+
+* [更多其他平台的客户端](http://shadowsocks.org/en/download/clients.html)
+
+##  五、官方导航
 
 * [ShadowSocks 官网](http://shadowsocks.org)
 
