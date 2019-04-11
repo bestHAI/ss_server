@@ -38,7 +38,6 @@
 * 查看日志
 
     * `./tools/log.sh`
- 
 
 ##  四、客户端下载
 
@@ -48,7 +47,25 @@
 
 * [更多其他平台的客户端](http://shadowsocks.org/en/download/clients.html)
 
-##  五、官方导航
+## 五、共享配置
+
+* Windows 平台
+
+    * 在 shadowsocks 文件夹找到以下两个文件，复制粘贴即可：
+
+    * `gui-config.json`：配置服务器，端口，密码等
+
+    * `pac.txt`：配置哪些域名需要代理
+
+* Android 平台
+
+    * 在 `tools` 文件夹下，找到 `json_to_ss.py` 的脚本
+    
+    * 运行 `pytho json_to_ss.py 【你的配置文件】`
+    
+    * 复制，在手机端找到【从剪贴板导入】
+
+##  六、官方导航
 
 * [ShadowSocks 官网](http://shadowsocks.org)
 
