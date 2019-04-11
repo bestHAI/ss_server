@@ -23,7 +23,24 @@
       - TIMEOUT=600  # 超时时间
     ```
 
-## 三、官方导航
+##  三、日常管理
+
+* 启动（以下选其一）：
+
+    * `./auto_run.sh`
+    
+    * `./tools/up.sh`
+
+* 停止
+
+    * `./tools/down.sh`
+    
+* 查看日志
+
+    * `./tools/log.sh`
+ 
+
+##  四、官方导航
 
 * [ShadowSocks 官网](http://shadowsocks.org)
 
