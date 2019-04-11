@@ -1,0 +1,1 @@
+docker service logs -f ss_server_shadowsocks

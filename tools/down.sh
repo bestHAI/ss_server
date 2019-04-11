@@ -1,0 +1,1 @@
+docker stack rm ss_server

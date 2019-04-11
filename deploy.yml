@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  shadowsocks:
+    image: shadowsocks/shadowsocks-libev
+    ports:
+      - "8388:8388"
+    environment:
+      - SERVER_ADDR=0.0.0.0
+      - SERVER_PORT=8388
+      - METHOD=aes-256-gcm
+      - PASSWORD=yourpasswd
+      - TIMEOUT=600
+    restart: always
