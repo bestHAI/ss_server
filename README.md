@@ -1,5 +1,13 @@
 # 在 Linux 上部署 ShadowSocks 服务
 
+## 〇、基本概况
+
+* 部署环境：docker 容器
+
+* 开放端口：8388（可更改）
+
+* 部署难度：支持一键部署
+
 ## 一、快速部署
 
 * `git clone https://github.com/bestHAI/ss_server.git`
