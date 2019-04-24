@@ -10,11 +10,21 @@
 
 ## 一、快速部署
 
-* `git clone https://github.com/bestHAI/ss_server.git`
+* 下载：
 
-* `cd ss_server`
+  * Git-HTTPS：`git clone https://github.com/bestHAI/ss_server.git`
+  
+  * gz压缩包：`https://github.com/bestHAI/ss_server/archive/1.0.0.tar.gz`
+  
+* 启动：
 
-* `chmod +x auto_run.sh && ./auto_run.sh 【登陆密码】`
+  * `cd ss_server`
+
+  * `chmod +x auto_run.sh && ./auto_run.sh 【登陆密码】`
+  
+* 参数：
+
+  * 【登陆密码】：部署完成后，客户端连接时的密码
 
 ## 二、参数配置
 
