@@ -12,9 +12,9 @@
 
 * 下载：
 
-  * Git-HTTPS：`git clone https://github.com/bestHAI/ss_server.git`
+  * Git 方式：`git clone https://github.com/bestHAI/ss_server.git`
   
-  * gz压缩包：`https://github.com/bestHAI/ss_server/archive/1.0.0.tar.gz`
+  * 普通下载：`https://github.com/bestHAI/ss_server/archive/1.0.0.tar.gz`
   
 * 启动：
 
