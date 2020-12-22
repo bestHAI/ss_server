@@ -10,6 +10,8 @@
 
 ## 一、快速部署
 
+* 原始命令：`docker run -d --name ss --network host -e SERVER_ADDR=0.0.0.0 -e SERVER_PORT=8383 -e METHOD=aes-256-gcm -e PASSWORD=yourpassword -e TIMEOUT=600 shadowsocks/shadowsocks-libev`
+
 * 下载：
 
   * Git 方式：`git clone https://github.com/bestHAI/ss_server.git`
